@@ -6,5 +6,6 @@ int main ()
     scanf("&d ", &day );
 
    
+   
     return 0;
 }
